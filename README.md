@@ -12,12 +12,4 @@
 
 ## Play
 
-[Nodejs](https://nodejs.org/ko/download/)
-
-nodejs downlode
-
-[Yarn](https://classic.yarnpkg.com/en/docs/install#mac-stable)
-
-yarn downlode
-
-cd frontend/hello-react -> yarn start
+추후 작성
